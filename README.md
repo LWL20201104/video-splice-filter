@@ -1,2 +1,9 @@
 # video-splice-filter
-FFmpeg filter video splicer
+
+```cpp
+/**
+* FFmpeg-4.3.1
+* SDL2-2.0.14
+*/
+```
+
