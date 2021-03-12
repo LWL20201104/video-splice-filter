@@ -1,0 +1,9 @@
+.vs/
+x64/
+bin/
+include/
+lib/
+video-splice-filter.sln
+video-splice-filter.vcxproj
+video-splice-filter.vcxproj.filters
+video-splice-filter.vcxproj.user
